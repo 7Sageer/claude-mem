@@ -317,7 +317,7 @@ const tools = [
 // Create the MCP server
 const server = new Server(
   {
-    name: 'claude-mem-search-server',
+    name: 'claude-mem-search',
     version: '1.0.0',
   },
   {
